@@ -1,6 +1,6 @@
 #HOW TO INSTALL (DEFAULT or BASIC USAGE)
 ---
-	* git clone https://github.com/SecretSyntax/insta-tools.git
+	* git clone https://github.com/fattanafif/galauers.git
 	* cd insta-tools
 	* unzip node_modules.zip
 	* node index.js
